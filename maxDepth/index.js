@@ -19,7 +19,7 @@ class TreeNode {
   }
 }
 
-function generateBinaryTreeFromArray(arr) {
+export function generateBinaryTreeFromArray(arr) {
   if (!arr || arr.length === 0) {
     return null;
   }
@@ -58,7 +58,7 @@ console.log(tree);
 
 
 // 二叉树的后序遍历
-var maxDepth = function(root) {
+export var maxDepth = function(root) {
   if(!root)return 0;
   // 拿到左子树深度
   const left = maxDepth(root.left);
