@@ -1,4 +1,5 @@
-import {generateBinaryTreeFromArray, maxDepth} from './index'
+import {generateBinaryTreeFromArray} from '../utils';
+import {maxDepth} from './index'
 
 test('测试深度', () => {
   expect(maxDepth(generateBinaryTreeFromArray([1,null,2]))).toBe(2);

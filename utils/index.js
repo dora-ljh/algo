@@ -1,25 +1,39 @@
-// let arr = [
-//   {id:1,parentid:null},
-//   {id:2,parentid:1},
-//   {id:3,parentid:1},
-//   {id:4,parentid:2},
-//   {id:5,parentid:3}
-// ]
-//以对象形式生成一棵树
-function getNewTree(arr){
-  let Map = {};
-  let root = null;
-  arr.forEach(el => {
-    Map[el.id] = {id:el.id,children:[]};
-    if(!el.parentid){
-      root = el.id;
-    }
-    if(el.parentid in Object.keys(Map)){
-      Map[el.parentid].children.push(Map[el.id]);
-    }
-  });
-  return Map[root];
+class TreeNode {
+  constructor(val) {
+    this.val = val;
+    this.left = null;
+    this.right = null;
+  }
 }
 
-module.exports = getNewTree
-// console.log(getNewTree(arr));
+export function generateBinaryTreeFromArray(arr) {
+  if (!arr || arr.length === 0) {
+    return null;
+  }
+
+  const root = new TreeNode(arr[0]);
+  const queue = [root];
+  let i = 1;
+
+  while (i < arr.length) {
+    const node = queue.shift();
+
+    if (arr[i] !== null) {
+      const left = new TreeNode(arr[i]);
+      node.left = left;
+      queue.push(left);
+    }
+
+    i++;
+
+    if (i < arr.length && arr[i] !== null) {
+      const right = new TreeNode(arr[i]);
+      node.right = right;
+      queue.push(right);
+    }
+
+    i++;
+  }
+
+  return root;
+}
