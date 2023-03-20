@@ -11,6 +11,7 @@
 
 ### 二分搜索
 
+* `简单` [search](./search/README.md) 二分查找
 * `中等` [searchRange](./searchRange/README.md) 在排序数组中查找元素的第一个和最后一个位置
 
 
