@@ -21,3 +21,7 @@
 * `简单` [maxDepth](./maxDepth/README.md) 二叉树的最大深度
 * `简单` [preorderTraversal](./preorderTraversal/README.md) 二叉树的前序遍历
 * `简单` [diameterOfBinaryTree](./diameterOfBinaryTree/README.md) 二叉树的直径
+
+
+### 动态规划
+* `简单` [fib](./fib/README.md) 斐波那契数
