@@ -1,6 +1,9 @@
 # 算法
 
 
+### 链表
+
+* `简单` [hasCycle](./hasCycle/README.md) 环形链表
 
 ### 滑动窗口
 
