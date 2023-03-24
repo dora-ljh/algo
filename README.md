@@ -4,6 +4,7 @@
 ### 链表
 
 * `简单` [hasCycle](./hasCycle/README.md) 环形链表
+* `中等` [detectCycle](./detectCycle/README.md) 环形链表 II
 
 ### 滑动窗口
 
