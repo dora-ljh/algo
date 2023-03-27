@@ -5,6 +5,7 @@
 
 * `简单` [hasCycle](./hasCycle/README.md) 环形链表
 * `中等` [detectCycle](./detectCycle/README.md) 环形链表 II
+* `简单` [getIntersectionNode](./getIntersectionNode/README.md) 相交链表
 
 ### 滑动窗口
 
