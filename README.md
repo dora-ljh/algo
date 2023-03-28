@@ -7,6 +7,7 @@
 * `中等` [detectCycle](srcipts/detectCycle/README.md) 环形链表 II
 * `简单` [getIntersectionNode](srcipts/getIntersectionNode/README.md) 相交链表
 * `中等` [removeNthFromEnd](srcipts/removeNthFromEnd/README.md) 删除链表的倒数第 N 个结点
+* `简单` [mergeTwoLists](srcipts/mergeTwoLists/README.md) 合并两个有序链表
 
 ### 滑动窗口
 
