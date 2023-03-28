@@ -1,4 +1,4 @@
-import {arrayToCustomizedCircularLinkedList} from '../utils';
+import {arrayToCustomizedCircularLinkedList} from '../utils/index.js';
 
 const list = arrayToCustomizedCircularLinkedList([3, 2, 0, -4], 1);
 

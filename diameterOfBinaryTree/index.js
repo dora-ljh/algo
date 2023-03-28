@@ -1,4 +1,4 @@
-import {generateBinaryTreeFromArray} from '../utils';
+import {generateBinaryTreeFromArray} from '../utils/index.js';
 
 const tree = generateBinaryTreeFromArray([1,2,3,4,5])
 
