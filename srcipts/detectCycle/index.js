@@ -1,4 +1,4 @@
-import {arrayToCustomizedCircularLinkedList} from '../utils/index.js';
+import {arrayToCustomizedCircularLinkedList} from '../../utils/index.js';
 
 const list = arrayToCustomizedCircularLinkedList([3,2,0,-4],1);
 
@@ -17,7 +17,6 @@ const list = arrayToCustomizedCircularLinkedList([3,2,0,-4],1);
 export var detectCycle = function (head) {
   debugger
   let slow = head,fast = head;
-  let hasCycle = false;
   while (fast&&fast.next){
     slow = slow.next;
     fast = fast.next.next;

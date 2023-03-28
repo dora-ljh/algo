@@ -1,5 +1,5 @@
 import {getIntersectionNode} from "./index.js";
-import {crossList} from '../utils/index.js';
+import {crossList} from '../../utils/index.js';
 
 const [list1,list2,cross1] = crossList([4,1],[5,6,1],[8,4,5]);
 

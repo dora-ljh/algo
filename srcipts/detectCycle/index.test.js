@@ -1,5 +1,5 @@
-import {arrayToCustomizedCircularLinkedList} from '../utils';
-import {detectCycle} from "./index";
+import {arrayToCustomizedCircularLinkedList} from '../../utils/index.js';
+import {detectCycle} from "./index.js";
 
 const test1 = arrayToCustomizedCircularLinkedList([3, 2, 0, -4],1);
 const test2 = arrayToCustomizedCircularLinkedList([1,2],0);

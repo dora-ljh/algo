@@ -1,4 +1,4 @@
-import {fib} from './index'
+import {fib} from './index.js'
 
 test('斐波那契数', () => {
   expect(fib(2)).toBe(1);

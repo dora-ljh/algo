@@ -1,4 +1,4 @@
-import {coinChange} from './index'
+import {coinChange} from './index.js'
 
 test('零钱兑换', () => {
   expect(coinChange([1,2,5],11)).toBe(3);
