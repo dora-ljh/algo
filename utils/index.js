@@ -1,4 +1,4 @@
-class TreeNode {
+export class TreeNode {
   constructor(val) {
     this.val = val;
     this.left = null;
@@ -44,12 +44,23 @@ export function generateBinaryTreeFromArray(arr) {
 
 
 
-class ListNode {
+export class ListNode {
   constructor(val = 0, next = null) {
     this.val = val;
     this.next = next;
   }
 }
+
+ListNode.prototype.toString = function() {
+  let result = '';
+  let node = this;
+  while (node !== null) {
+    result += node.val + ' -> ';
+    node = node.next;
+  }
+  result += 'null';
+  return result;
+};
 
 /**
  * 根据数组生成单向或者环形链表。
