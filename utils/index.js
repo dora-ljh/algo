@@ -41,6 +41,8 @@ export function generateBinaryTreeFromArray(arr) {
   return root;
 }
 
+export const replace = /\\(?=\[|\])/;
+
 
 
 
