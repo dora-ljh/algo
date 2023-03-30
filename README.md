@@ -10,6 +10,7 @@
 * `简单` [mergeTwoLists](srcipts/mergeTwoLists/README.md) 合并两个有序链表
 * `困难` [mergeKLists](srcipts/mergeKLists/README.md) 合并 K 个升序链表
 * `中等` [partition](srcipts/partition/README.md) 分隔链表
+* `简单` [middleNode](srcipts/middleNode/README.md) 链表的中间结点
 
 ### 滑动窗口
 
