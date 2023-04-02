@@ -39,3 +39,4 @@
 
 ### 回溯算法
 * `中等` [permute](srcipts/permute/README.md) 全排列
+* `困难` [solveNQueens](srcipts/solveNQueens/README.md) N 皇后
