@@ -40,3 +40,4 @@
 ### 回溯算法
 * `中等` [permute](srcipts/permute/README.md) 全排列
 * `困难` [solveNQueens](srcipts/solveNQueens/README.md) N 皇后
+* `中等` [combinationSum3](srcipts/combinationSum3/README.md) 组合总和 III
