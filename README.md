@@ -39,6 +39,7 @@
 
 ### 回溯算法
 * `中等` [permute](srcipts/permute/README.md) 全排列 (无重复不可复选)
+* `中等` [permuteUnique](srcipts/permuteUnique/README.md) 全排列II (有重复不可复选)
 * `困难` [solveNQueens](srcipts/solveNQueens/README.md) N 皇后 (无重复不可复选)
 * `中等` [combinationSum3](srcipts/combinationSum3/README.md) 组合总和 III (无重复不可复选)
 * `中等` [combinationSum](srcipts/combinationSum/README.md) 组合总和 (无重复可复选)
