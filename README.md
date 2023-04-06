@@ -46,3 +46,4 @@
 * `中等` [combinationSum2](srcipts/combinationSum2/README.md) 组合总和 II (有重复不可复选)
 * `中等` [combine](srcipts/combine/README.md) 组合 (无重复不可复选)
 * `中等` [subsets](srcipts/subsets/README.md) 子集 (无重复不可复选)
+* `中等` [subsetsWithDup](srcipts/subsetsWithDup/README.md) 子集 II (有重复不可复选)
