@@ -42,3 +42,4 @@
 * `困难` [solveNQueens](srcipts/solveNQueens/README.md) N 皇后
 * `中等` [combinationSum3](srcipts/combinationSum3/README.md) 组合总和 III
 * `中等` [combinationSum](srcipts/combinationSum/README.md) 组合总和
+* `中等` [combinationSum2](srcipts/combinationSum2/README.md) 组合总和 II
