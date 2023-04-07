@@ -50,3 +50,4 @@
 
 ### BFS
 * `简单` [minDepth](srcipts/minDepth/README.md) 二叉树的最小深度
+* `中等` [openLock](srcipts/openLock/README.md) 打开转盘锁
