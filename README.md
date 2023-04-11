@@ -17,6 +17,7 @@
 * `中等` [findRepeatedDnaSequences](srcipts/findRepeatedDnaSequences/README.md) 重复的DNA序列
 * `中等` [strStr](srcipts/strStr/README.md) 找出字符串中第一个匹配项的下标
 * `中等` [checkInclusion](srcipts/checkInclusion/README.md) 字符串的排列
+* `中等` [findAnagrams](srcipts/findAnagrams/README.md) 找到字符串中所有字母异位词
 
 
 
