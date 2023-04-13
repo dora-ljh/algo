@@ -1,6 +1,10 @@
 # 算法
 
 
+### 数组
+* `简单` [rangeSumQueryImmutable](srcipts/rangeSumQueryImmutable/README.md) 区域和检索 - 数组不可变
+
+
 ### 链表
 
 * `简单` [hasCycle](srcipts/hasCycle/README.md) 环形链表
