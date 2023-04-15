@@ -3,6 +3,7 @@
 
 ### 数组
 * `简单` [rangeSumQueryImmutable](srcipts/rangeSumQueryImmutable/README.md) 区域和检索 - 数组不可变
+* `中等` [randomPickWithWeight](srcipts/randomPickWithWeight/README.md) 按权重随机选择
 
 
 ### 链表
