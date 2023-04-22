@@ -2,6 +2,7 @@
 
 
 ### 数组
+* `简单` [removeDuplicates](srcipts/removeDuplicates/README.md) 删除有序数组中的重复项
 * `简单` [rangeSumQueryImmutable](srcipts/rangeSumQueryImmutable/README.md) 区域和检索 - 数组不可变
 * `中等` [randomPickWithWeight](srcipts/randomPickWithWeight/README.md) 按权重随机选择
 * `中等` [advantageCount](srcipts/advantageCount/README.md) 优势洗牌
