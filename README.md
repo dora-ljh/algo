@@ -7,6 +7,7 @@
 * `中等` [randomPickWithWeight](srcipts/randomPickWithWeight/README.md) 按权重随机选择
 * `中等` [advantageCount](srcipts/advantageCount/README.md) 优势洗牌
 * `中等` [insertDeleteGetrandomO1](srcipts/insertDeleteGetrandomO1/README.md) O(1) 时间插入、删除和获取随机元素
+* `困难` [randomPickWithBlacklist](srcipts/randomPickWithBlacklist/README.md) 黑名单中的随机数
 
 
 ### 链表
