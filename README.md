@@ -6,6 +6,7 @@
 * `简单` [rangeSumQueryImmutable](srcipts/rangeSumQueryImmutable/README.md) 区域和检索 - 数组不可变
 * `中等` [randomPickWithWeight](srcipts/randomPickWithWeight/README.md) 按权重随机选择
 * `中等` [advantageCount](srcipts/advantageCount/README.md) 优势洗牌
+* `中等` [insertDeleteGetrandomO1](srcipts/insertDeleteGetrandomO1/README.md) O(1) 时间插入、删除和获取随机元素
 
 
 ### 链表
