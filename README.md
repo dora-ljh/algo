@@ -44,10 +44,10 @@
 
 
 ### 二叉树
-
 * `简单` [maxDepth](srcipts/maxDepth/README.md) 二叉树的最大深度
 * `简单` [preorderTraversal](srcipts/preorderTraversal/README.md) 二叉树的前序遍历
 * `简单` [diameterOfBinaryTree](srcipts/diameterOfBinaryTree/README.md) 二叉树的直径
+* `简单` [invertTree](srcipts/invertTree/README.md) 翻转二叉树
 
 
 ### 动态规划
