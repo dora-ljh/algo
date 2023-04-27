@@ -49,6 +49,7 @@
 * `简单` [diameterOfBinaryTree](srcipts/diameterOfBinaryTree/README.md) 二叉树的直径
 * `简单` [invertTree](srcipts/invertTree/README.md) 翻转二叉树
 * `中等` [flatten](srcipts/flatten/README.md) 二叉树展开为链表
+* `中等` [connect](srcipts/connect/README.md) 填充每个节点的下一个右侧节点指针
 
 
 ### 动态规划
