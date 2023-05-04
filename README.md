@@ -54,6 +54,7 @@
 * `中等` [connect](srcipts/connect/README.md) 填充每个节点的下一个右侧节点指针
 * `中等` [constructMaximumBinaryTree](srcipts/constructMaximumBinaryTree/README.md)  最大二叉树
 * `中等` [preorderAndInorderBuildTree](srcipts/preorderAndInorderBuildTree/README.md)  从前序与中序遍历序列构造二叉树
+* `中等` [inorderAndPostorderBuildTree](srcipts/inorderAndPostorderBuildTree/README.md)  从中序与后序遍历序列构造二叉树
 
 
 ### 动态规划
