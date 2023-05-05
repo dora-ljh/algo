@@ -55,6 +55,7 @@
 * `中等` [constructMaximumBinaryTree](srcipts/constructMaximumBinaryTree/README.md)  最大二叉树
 * `中等` [preorderAndInorderBuildTree](srcipts/preorderAndInorderBuildTree/README.md)  从前序与中序遍历序列构造二叉树
 * `中等` [inorderAndPostorderBuildTree](srcipts/inorderAndPostorderBuildTree/README.md)  从中序与后序遍历序列构造二叉树
+* `中等` [constructFromPrePost](srcipts/constructFromPrePost/README.md)  根据前序和后序遍历构造二叉树
 
 
 ### 动态规划
