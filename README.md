@@ -61,6 +61,7 @@
 ### 动态规划
 * `简单` [fib](srcipts/fib/README.md) 斐波那契数
 * `中等` [coinChange](srcipts/coinChange/README.md) 零钱兑换
+* `中等` [lengthOfLIS](srcipts/lengthOfLIS/README.md) 最长递增子序列
 
 ### 回溯算法
 * `中等` [permute](srcipts/permute/README.md) 全排列 (无重复不可复选)
