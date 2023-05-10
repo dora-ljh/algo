@@ -21,20 +21,23 @@ export var maxEnvelopes = function (envelopes) {
 
 
 // 具体解释可查看 递增子序列 算法
-const lengthOfLIS = function (nums) {
-  const db = new Array(nums.length).fill(0);
+var lengthOfLIS = function (nums) {
+  const top = [];
   for (let i = 0; i < nums.length; i++) {
-    db[i] = 1;
-    for (let j = 0; j < i; j++) {
-      const fast = nums[i];
-      const slow = nums[j];
-      if (slow < fast) {
-        db[i] = Math.max(db[i], db[j] + 1);
+    let left = 0, right = top.length;
+    while (left < right) {
+      const mid = Math.floor((right - left) / 2) + left;
+      if (nums[i] <= top[mid]) {
+        right = mid;
+      } else {
+        left = mid + 1;
       }
     }
+    if (left === top.length) top.push(nums[i]);
+    else top[left] = nums[i];
   }
-  return db.reduce((a, b) => Math.max(a, b));
-}
+  return top.length;
+};
 
 
 // console.log(maxEnvelopes([[5, 4], [6, 4], [6, 7], [2, 3]]))
