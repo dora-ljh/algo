@@ -63,6 +63,7 @@
 * `中等` [coinChange](srcipts/coinChange/README.md) 零钱兑换
 * `中等` [lengthOfLIS](srcipts/lengthOfLIS/README.md) 最长递增子序列
 * `困难` [maxEnvelopes](srcipts/maxEnvelopes/README.md) 俄罗斯套娃信封问题
+* `中等` [minCost](srcipts/minCost/README.md) 粉刷房子
 
 ### 回溯算法
 * `中等` [permute](srcipts/permute/README.md) 全排列 (无重复不可复选)
