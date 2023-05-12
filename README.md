@@ -64,6 +64,7 @@
 * `中等` [lengthOfLIS](srcipts/lengthOfLIS/README.md) 最长递增子序列
 * `困难` [maxEnvelopes](srcipts/maxEnvelopes/README.md) 俄罗斯套娃信封问题
 * `中等` [minCost](srcipts/minCost/README.md) 粉刷房子
+* `中等` [largestDivisibleSubset](srcipts/largestDivisibleSubset/README.md) 最大整除子集
 
 ### 回溯算法
 * `中等` [permute](srcipts/permute/README.md) 全排列 (无重复不可复选)
