@@ -67,6 +67,7 @@
 * `中等` [largestDivisibleSubset](srcipts/largestDivisibleSubset/README.md) 最大整除子集
 * `中等` [minFallingPathSum](srcipts/minFallingPathSum/README.md) 下降路径最小和
 * `困难` [numDistinct](srcipts/numDistinct/README.md) 不同的子序列
+* `中等` [wordBreak](srcipts/wordBreak/README.md) 单词拆分
 
 
 ### 回溯算法
