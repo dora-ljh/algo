@@ -68,7 +68,7 @@
 * `中等` [minFallingPathSum](srcipts/minFallingPathSum/README.md) 下降路径最小和
 * `困难` [numDistinct](srcipts/numDistinct/README.md) 不同的子序列
 * `中等` [wordBreak](srcipts/wordBreak/README.md) 单词拆分
-
+* `中等` [wordBreakII](srcipts/wordBreakII/README.md) 单词拆分II
 
 ### 回溯算法
 * `中等` [permute](srcipts/permute/README.md) 全排列 (无重复不可复选)
