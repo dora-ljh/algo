@@ -69,6 +69,7 @@
 * `困难` [numDistinct](srcipts/dynamicPlanning/numDistinct/README.md) 不同的子序列
 * `中等` [wordBreak](srcipts/dynamicPlanning/wordBreak/README.md) 单词拆分
 * `中等` [wordBreakII](srcipts/dynamicPlanning/wordBreakII/README.md) 单词拆分II
+* `困难` [minDistance](srcipts/dynamicPlanning/minDistance/README.md) 编辑距离
 
 ### 回溯算法
 * `中等` [permute](srcipts/backtrackingAlgorithm/permute/README.md) 全排列 (无重复不可复选)
